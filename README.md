@@ -56,7 +56,7 @@ I'm a developer who mainly specializes in C like languages.
 </p>
 
 
-<hr>
+#
 
 
 <div align="center">I trust in</div>
