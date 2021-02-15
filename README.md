@@ -35,10 +35,7 @@ I'm a developer who mainly specializes in C like languages.
 
 <div align="center">No badge for C and Cpp...</div>
 
-
-<hr>
-
-### Editors I use
+## Editors I use
 
 <p align="center">
    <a href="https://www.vim.org/"/>
@@ -69,7 +66,7 @@ I'm a developer who mainly specializes in C like languages.
   </a>
 </p>
 
----
+#
 
 <p align="center">
   <a/>
