@@ -52,12 +52,26 @@ I'm a developer who mainly specializes in C like languages.
   <a href="https://www.jetbrains.com/idea/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://www.jetbrains.com/clion/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_clion.svg" alt="CLion" style="vertical-align:top; margin:4px">
+  </a>
 </p>
+
 
 <hr>
 
-<p align="center">
 
+<div align="center">I trust in</div>
+<p align="center">
+    <a/>
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b50d8ca1e666614f7c6e7464f34287cfd7405b56/svg/devices/archlinux.svg" alt="Arch" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+---
+
+<p align="center">
   <a/>
     <img src="https://komarev.com/ghpvc/?username=TheStachelfisch" alt="Views" style="vertical-align:top; margin:4px">
   </a>
