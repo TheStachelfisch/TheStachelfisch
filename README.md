@@ -1,68 +1,53 @@
 # Hi There!
 I'm a developer who mainly specializes in C like languages. 
+I have experience in creating applications, working with APIs and maintaining servers, either hosted myself or a VPS.
 
-<hr>
+Below is a full list of everything I do or know.
+#
 
-
-## I currently use
-
-<p align="left">
-  <a href="https://github.com/dotnet/csharplang">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="Csharp" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://dotnet.microsoft.com"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" alt="CsharpNet" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.java.com/en/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://git-scm.com/"/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/8123dfb6450f9e3465f6b82e4440af1d1a7f92e5/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.rust-lang.org/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://kotlinlang.org//"/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b15e56a11a52933b5a75bf45679671ee06d7702a/svg/dev/languages/kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-
-<div align="center">No badge for C and Cpp...</div>
-
-## Editors I use
-
-<p align="left">
-   <a href="https://www.vim.org/"/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b15e56a11a52933b5a75bf45679671ee06d7702a/svg/dev/tools/vim.svg" alt="Vim" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.jetbrains.com/rider/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_rider.svg" alt="Rider" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.jetbrains.com/idea/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.jetbrains.com/clion/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_clion.svg" alt="CLion" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
+### Languages I work with
+- **C#** (Used for almost every project because of its versatility and syntactical sugar.)
+- **Kotlin** (Used for Android development and as a great replacement for Java.)
+- **C** (Used if I need low level hardware access and blazing fast speeds.)
+- **C++** (Used if execution speed is key, for instance for networking projects and IoT programming.)
+- **JS, Html, CSS** (Used as my general go-to for web development, since I still haven't found a good framework.)
+- **Lua & Python** (Used as my go-to languages for scripting and creating quick small projects.)
 
 #
 
+### Technologies I'm familiar with
+- **Object-oriented programming**
+- **Data-oriented programming**
+- **Docker**
+- **Docker-compose**
+- **REST APIs**
+- **Virtualizations**
+- **Blockchains**
+- **SSH, SCP & SFTP**
 
-<div align="center">I trust in</div>
-<p align="center">
-    <a/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b50d8ca1e666614f7c6e7464f34287cfd7405b56/svg/devices/archlinux.svg" alt="Arch" style="vertical-align:top; margin:4px">
+#
+
+### IDEs and Editors I use
+- **JetBrains Rider** (Everything related to C# and .Net)
+- **JetBrains Webstorm** (Everything for Web development, React, Vue.Js, Typescript etc.)
+- **JetBrains IntelliJ** (Everything that is related to the JVM or Android development)
+- **JetBrains CLion** (Mainly used for C and C++, although I also use Neovim for a lot of C development)
+- **VSCodium** (Scripting languages and feature rich text editor)
+- **Neovim** (Go-to text editor on Linux and used for low-level languages like C and C++)
+
+#
+
+<p align="center" style="font-size=32px;">
+  <a href="https://steamcommunity.com/id/TheStachelfisch/">
+    Steam
+  </a>
+  
+  <a href="https://thestachelfisch.me">
+    Website
+  </a>
+  
+  <a href="#" title="TheStachelfisch#0395">
+    Discord
   </a>
 </p>
 
