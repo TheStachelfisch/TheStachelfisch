@@ -21,7 +21,7 @@ Below is a full list of everything I do or know.
 - **Docker**
 - **Docker-compose**
 - **REST APIs**
-- **Virtualizations**
+- **Virtualization**
 - **Blockchains**
 - **SSH, SCP & SFTP**
 
