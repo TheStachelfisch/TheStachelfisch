@@ -42,7 +42,7 @@ Below is a full list of everything I do or know.
     Steam
   </a>
   
-  <a href="https://thestachelfisch.me">
+  <a href="https://thestachelfisch.dev">
     Website
   </a>
   
