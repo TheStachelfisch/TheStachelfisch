@@ -1,5 +1,5 @@
 # Hi There!
-I'm a developer who mainly specializes in C like languages. 
+I'm a developer who mainly specializes in object oriented languages. 
 I have experience in creating applications, working with APIs and maintaining servers, either hosted myself or a VPS.
 
 Below is a full list of everything I do or know.
