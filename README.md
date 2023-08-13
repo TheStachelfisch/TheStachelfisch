@@ -8,9 +8,8 @@ Below is a full list of everything I do or know.
 ### Languages I work with
 - **C#** (Used for almost every project because of its versatility and syntactical sugar.)
 - **Kotlin** (Used for Android development and as a great replacement for Java.)
-- **C** (Used if I need low level hardware access and blazing fast speeds.)
-- **C++** (Used if execution speed is key, for instance for networking projects and IoT programming.)
-- **JS, Html, CSS** (Used as my general go-to for web development, since I still haven't found a good framework.)
+- **C & ZIG** (Used if I need low level hardware access and blazing fast speeds.)
+- **JS, Html, CSS, Astro & Vue** (Used as my general go-to for web development, since I still haven't found a good framework.)
 - **Lua & Python** (Used as my go-to languages for scripting and creating quick small projects.)
 
 #
